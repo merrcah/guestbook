@@ -1,7 +1,9 @@
 <?php declare(strict_types=1);
 use PHPUnit\Framework\TestCase;
 
-final class StackTest extends TestCase
+require "functions.php";
+
+final class FunctionTest extends TestCase
 {
     public function testPushAndPop(): void
     {
@@ -15,13 +17,17 @@ final class StackTest extends TestCase
         $this->assertSame('foo', array_pop($stack));
         $this->assertSame(0, count($stack));
     }
+ 
+    /**
+     * Call the deleteFunction with no parameters
+     * Expected result: the guestbook is deleted ... 
+     */
+    // public function testDelete(): void {
+    //   global $config;
+    //   $_GET['t'] = 1;
+    //   deleteGuestbook(); // make the function call that we are testing
 
-  /**
-  * 
-  */
-
-    public function testPrint(): void {
-        $result = print_r("hi there",true);
-        $this->assertSame("hi there", $result);
-    }
+    //   // // now check the results
+    //   $this->assertEquals("", file_get_contents($config['test_db']));
+    // }
 }

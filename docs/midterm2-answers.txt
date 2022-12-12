@@ -1,0 +1,2 @@
+3-2 No
+3-3 To sync the files across I need to commit all and push the changes into my github. 
