@@ -1,2 +1,6 @@
 3-2 No
 3-3 To sync the files across I need to commit all and push the changes into my github. 
+3-7 No
+3-8 I need to pull the screenshot.
+this is something different
+3-12 It means that every locally created branch is behind.
