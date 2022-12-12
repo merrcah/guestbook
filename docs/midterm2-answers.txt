@@ -6,7 +6,7 @@
 3-13 It asks whether to keep the replit file or the git file version.
 3-14 I think I should have pushed my replit answers before adding the last line answer. It's only bringing up the keep replit or get file version like the last answer. I cant see both statements. Origin/main is a shorthand name for the remote repository that a project was originally cloned from, so it's replit. Head refers to github.
 3-17 There are 2 branches.
-3-21 The 3rd screenshot is pulled.
+3-21 The 3rd and 4th screenshot is pulled.
 3-22 PHP
 3-23 CSS
 3-24 HTML
