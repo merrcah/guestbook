@@ -2,7 +2,6 @@
 3-3 To sync the files across I need to commit all and push the changes into my github. 
 3-7 No
 3-8 I need to pull the screenshot.
-this is something different
 3-12 It means that every locally created branch is behind.
 3-13 It asks whether to keep the replit file or the git file version.
-3-14 I think I should have pushed my replit answers before adding the last line answer. It's only bringing up the keep replit or get file version like the last answer. I cant see both statements. 
+3-14 I think I should have pushed my replit answers before adding the last line answer. It's only bringing up the keep replit or get file version like the last answer. I cant see both statements. Origin/main is a shorthand name for the remote repository that a project was originally cloned from, so it's replit. Head refers to github.
